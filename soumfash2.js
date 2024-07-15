@@ -13,4 +13,5 @@
 
   // Configure Google Analytics with your tracking ID
   gtag('config', 'G-0NL9CMH9VN');
+  console.log("suditya added GA4");
 })();
